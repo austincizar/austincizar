@@ -18,6 +18,8 @@ I am Emmanuel Eyo, a Tech enthusiast passionate about Cyber security and program
 Here are some projects I'm proud of:
 1. [Number Guessing Game](https://github.com/austincizar/Number-Guessing-Game): A Number guessing game, in which the computer uses a range from 1 to 100. Some random number within the range will be selected by the system and the user has to guess that number in the minimum number of guesses which is 10..
 
+2. [Tic-Tac-Toe-game] (https://github.com/austincizar/Tic-Tac-Toes-game/blob/main/Tic_Tac_Toe.py): Tic Tac Toe is traditionally played on a 3 × 3 grid. Players take turns placing a mark in one of the cells of the grid. The goal of the game is for players to position their marks so that they make a continuous line of three cells vertically, horizontally, or diagonally.
+
 ## Connect with Me
 
 - LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/emmanuel-eyo23)
